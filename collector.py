@@ -13,7 +13,7 @@ ifhost = "192.168.178.11"
 ifport = 8086
 
 # configure network device name and disk path
-net = ('eno1')
+net = ('eth0')
 drive =('/')
 sensor = ('coretemp') # for rpi4 put in: ('cpu_thermal')
 
