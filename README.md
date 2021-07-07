@@ -1,6 +1,6 @@
 # simplestatcollector
 
-simple stat collector made with python writes data to influxdb which can easily be visualized with grafana
+simple stat collector made with python writes data to influxdb which can easily be visualized with grafana.
 i wanted a dead simple and ultra lightweight system monitoring for my rpi4 docker swarm.
 so i made one
 
